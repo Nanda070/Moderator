@@ -370,4 +370,4 @@ async def on_raw_reaction_remove(payload):
                 await log_embed(log_nick_role_id, embed)
 
 
-bot.run("MTM0MTE4NDY4MjkwNTMwOTI5NQ.GKGLp6.FsO1-niUEGZmODLZOtTg02t_qPJ-_yOTGCFDII")
+bot.run("")
